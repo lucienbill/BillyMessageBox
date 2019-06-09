@@ -1,0 +1,45 @@
+@keyframes slide {
+    0%   {left:500px; }
+    3% {left:0px; }
+    97% {left:0px; }
+    100% {left:500px; }
+  }
+
+
+body {
+    font-family: "Gill Sans", sans-serif;
+}
+
+div {
+    background-color: rgb(0, 52, 50);
+    width: 350px;
+    border: 3px solid rgb(0, 150, 150);
+    border-radius: 10px;
+    animation-name: slide;
+    animation-duration: 20s;
+    position: relative;
+    left:500px;
+    animation-timing-function: ease;
+}
+
+h1 {
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    padding: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin: 0px;
+    font-family: "Stencil", sans-serif;
+    background-color: rgb(13, 150, 150);
+    color: rgb(240, 240, 240);
+    font-weight: lighter;
+}
+
+p {
+    margin: 0px;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(240, 240, 240);
+    font-size:1.2em;
+}
+

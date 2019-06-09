@@ -1,0 +1,53 @@
+<!-- This displays a random message from lib_messages.js -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+        <script src="printSomeRandomPeriodicMessages.js"></script>
+        <script src="lib_messages.js"></script>
+    </head>
+    <body>
+        <!--
+            [EN]
+            If you want the page to be empty on load, and then wait 'interval'
+            seconds to see a message, don't touch this HTML code.
+
+            [FR]
+            Si vous voulez que la page soit vide à son ouverture, puis qu'elle
+            attend 'interval' secondes pour charger un message, ne touchez pas
+            à ce code HTML.
+        -->
+        <div id="messageBox" hidden>
+            <h1 id="title"></h1>
+            <p id="message"></p>
+        </div>
+
+        <!-- 
+            [EN]
+            If you want the page to be pre-loaded with a message, comment
+            the section above, and uncomment the section below.
+
+            [FR]
+            Si vous voulez que la page soit pré-chargée avec un message,
+            commentez la section ci-dessu et décommentez la section ci-dessous.
+        -->
+        <!-- 
+        <div id="messageBox">
+            <h1 id="title">Thanks BillyZeTroll!</h1>
+            <p id="message">I love Billy, he's the best! (But is he, really? What do I know, I'm just an HTML page)</p>
+        </div>
+         -->
+    </body>
+    <script>
+        /*
+        [EN]
+        Changes the message every 'interval' seconds. 10*60 seconds = 10 minutes
+
+        [FR]
+        Change de message toutes les 'interval' secondes. 10*60 secondes = 10 minutes
+        */
+        var interval = 10*60 
+        displayAllMessagesInRandomOrder(interval)
+    </script>
+</html>
