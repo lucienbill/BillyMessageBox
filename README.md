@@ -48,6 +48,6 @@ Je regarde parfois les streams officiels de l'Overwatch League, c'est vraiment b
 ## C'est cool, mais est-ce que ça peut faire <truc spécifique que je n'ai pas codé>?
 Non, pas vraiment... Sauf si vous le codez. Je vous inviter à forker/copier/adapter/redistribuer mon code. Il est là, il est gratuit, profitez-en !
 
-## Je veux l'ajuster. Qu'ai-je besoin de savoir ?
+## Je veux le bidouiller. Qu'ai-je besoin de savoir ?
 Vous aurez besoin d'apprendre un peu d'HTML, de CSS et de Javascript. Si vous débutez ce n'est pas grave : essayez, échouez, apprenez et recommencez, vous finirez par faire des étincelles.
 Si vous êtes vraiment perdu, soumettez une "issue" et je regarderai ce que je peux faire
