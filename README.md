@@ -27,7 +27,7 @@ If you're realy lost, submit an issue and I'll look into it.
 
 # En Français
 ## C'est quoi ce truc ?
-Ceci est un outil simple pour afficher des messages prédéfinis dans le désordre à intervales réguliers.
+Ceci est un outil simple pour afficher des messages prédéfinis dans le désordre à intervalles réguliers.
 
 ## A qui est-ce destiné ?
 Vous streamez sur Twitch ou sur YouTube ? Vous souhaiteriez afficher quelques messages un peu débiles sur votre stream ? Alors vous êtes le public ciblé.
