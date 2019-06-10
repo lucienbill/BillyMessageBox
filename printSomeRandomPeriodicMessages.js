@@ -13,7 +13,7 @@ function displayOneRandomMSG() {
 function writeMessage(id){
     document.getElementById("messageBox").hidden = true
     var d = new Date();
-    console.log("show message " + id + " ; " + d.toLocaleTimeString()) //DEBUG
+    // console.log("show message " + id + " ; " + d.toLocaleTimeString()) //DEBUG
     
     window.setTimeout(
         // I use 'setTimeout' because javascript is asynchronous. If I don't, 'hidden = false' might execute before 'hidden = true'
