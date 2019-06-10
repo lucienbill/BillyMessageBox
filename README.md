@@ -2,6 +2,8 @@
 ## What am I looking at?
 This is a simple tool that display some predefined messages in random order at regular intervals.
 
+[Here is what it looks like](https://twitter.com/BillyTheTroll/status/1137787015540482050)
+
 ## Who is this for?
 Do you stream on Twitch or YouTube? Would you like some funny messages to be displayed on your stream? Then you are the targeted audience.
 If you want to use this with [OBS](https://obsproject.com/fr):
@@ -28,6 +30,8 @@ If you're realy lost, submit an issue and I'll look into it.
 # En Français
 ## C'est quoi ce truc ?
 Ceci est un outil simple pour afficher des messages prédéfinis dans le désordre à intervalles réguliers.
+
+[Voici à quoi cela ressemble](https://twitter.com/BillyTheTroll/status/1137787015540482050)
 
 ## A qui est-ce destiné ?
 Vous streamez sur Twitch ou sur YouTube ? Vous souhaiteriez afficher quelques messages un peu débiles sur votre stream ? Alors vous êtes le public ciblé.
