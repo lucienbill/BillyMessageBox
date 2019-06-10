@@ -14,7 +14,7 @@ var messages = [
         "title":"Pardon my french",
         "message":
             "What? Billy is french? I don't want to use this 'Baguette' technology!"
-    }
+    },
     {
         "title":"Piou Piou 🐦",
         "message":
