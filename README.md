@@ -50,7 +50,7 @@ Notes:
 Je regarde parfois les streams officiels de l'Overwatch League, c'est vraiment bien produit. De temps en temps la réal affiche des messages avec quelques informations pertinentes à l'écran (voici un [exemple](https://clips.twitch.tv/DarkTardyWoodpeckerAMPEnergy)). Je trouve que c'est très cool, je m'en suis inspiré.
 
 ## C'est cool, mais est-ce que ça peut faire <truc spécifique que je n'ai pas codé>?
-Non, pas vraiment... Sauf si vous le codez. Je vous inviter à forker/copier/adapter/redistribuer mon code. Il est là, il est gratuit, profitez-en !
+Non, pas vraiment... Sauf si vous le codez. Je vous invite à forker/copier/adapter/redistribuer mon code. Il est là, il est gratuit, profitez-en !
 
 ## Je veux le bidouiller. Qu'ai-je besoin de savoir ?
 Vous aurez besoin d'apprendre un peu d'HTML, de CSS et de Javascript. Si vous débutez ce n'est pas grave : essayez, échouez, apprenez et recommencez, vous finirez par faire des étincelles.
