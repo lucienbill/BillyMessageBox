@@ -7,7 +7,7 @@ This is a simple tool that display some predefined messages in random order at r
 ## Who is this for?
 Do you stream on Twitch or YouTube? Would you like some funny messages to be displayed on your stream? Then you are the targeted audience.
 If you want to use this with [OBS](https://obsproject.com/fr):
-1. Download the files on your computer (example: `C:/somefolder/stream`)
+1. Clone this projet (or just download the files) on your computer (example: `C:/somefolder/stream`)
 2. In OBS, create a new "Browser" source, and enter the path to the HTML file (example: `C:/somefolder/stream/printSomeRandomPeriodicMessages.html`)
 3. Place your source in the appropriate location. Tip: change the time interval in `printSomeRandomPeriodicMessages.html` to 3 seconds just to try and see how things work.
 4. Customize everything (the colors, the messages, the animations...)
@@ -36,7 +36,7 @@ Ceci est un outil simple pour afficher des messages prédéfinis dans le désord
 ## A qui est-ce destiné ?
 Vous streamez sur Twitch ou sur YouTube ? Vous souhaiteriez afficher quelques messages un peu débiles sur votre stream ? Alors vous êtes le public ciblé.
 Pour utiliser cet outil avec [OBS](https://obsproject.com/fr):
-1. Téléchargez les fichiers sur votre ordinateur (exemple: `C:/somefolder/stream`)
+1. Clonez ce projet (ou téléchargez les fichiers) sur votre ordinateur (exemple: `C:/somefolder/stream`)
 2. dans OBS, créez une source de type "navigateur" et entrez le chemin du fichier HTML (exemple: `C:/somefolder/stream/printSomeRandomPeriodicMessages.html`)
 3. Placez la source à l'endroit qui convient le mieux. Astuce : changez le timing 'interval' dans `printSomeRandomPeriodicMessages.html` à 3 seconds juste pour essayer et voir comment tout fonctionne.
 4. Customisez tout (les couleurs, les messages, les animations...)
