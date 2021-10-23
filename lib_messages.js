@@ -18,6 +18,6 @@ var messages = [
     {
         "title":"Piou Piou 🐦",
         "message":
-            "On a un twitter : @allgeekstudio"
+            "J'ai un twitter : @BillyTheTroll"
     },
 ]
