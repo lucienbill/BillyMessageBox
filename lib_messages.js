@@ -16,8 +16,8 @@ var messages = [
             "What? Billy is french? I don't want to use this 'Baguette' technology!"
     },
     {
-        "title":"Piou Piou 🐦",
+        "title":"Bluesky 🟦",
         "message":
-            "J'ai un twitter : @BillyTheTroll"
+            "Venez, on papote ! bsky.app/profile/lucienbill.fr"
     },
 ]

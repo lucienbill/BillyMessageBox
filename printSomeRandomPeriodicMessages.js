@@ -1,19 +1,5 @@
-
-/**
- * display on random message from the list in "lib_messages.js"
- *
- */
-function displayOneRandomMSG() {
-    // var cookie = document.cookie;
-
-    var id = Math.floor(Math.random() * messages.length)
-    writeMessage(id)
-}
-
 function writeMessage(id){
     document.getElementById("messageBox").hidden = true
-    var d = new Date();
-    // console.log("show message " + id + " ; " + d.toLocaleTimeString()) //DEBUG
     
     window.setTimeout(
         // I use 'setTimeout' because javascript is asynchronous. If I don't, 'hidden = false' might execute before 'hidden = true'
@@ -37,8 +23,8 @@ function displayAllMessagesInRandomOrder(interval){
     //interval in seconds.
     interval = interval * 500
 
-    var arr = []
-    for(var i=0; i<messages.length; i++){
+    let arr = []
+    for(let i=0; i<messages.length; i++){
         arr.push(i)
     }
     arr = shuffle(arr)
