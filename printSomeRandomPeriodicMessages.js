@@ -21,7 +21,7 @@ function writeMessage(id){
  */
 function displayAllMessagesInRandomOrder(interval){
     //interval in seconds.
-    interval = interval * 500
+    interval = interval * 30
 
     let arr = []
     for(let i=0; i<messages.length; i++){

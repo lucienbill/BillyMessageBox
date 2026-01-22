@@ -1,8 +1,8 @@
 @keyframes slide {
-    0%   {left:500px; }
-    3% {left:0px; }
-    97% {left:0px; }
-    100% {left:500px; }
+    0%   {left:2000px; opacity: 1;}
+    3% {left:0px; opacity: 1;}
+    97% {left:0px; opacity: 1;}
+    100% {left:2000px; opacity: 0;}
   }
 
 
@@ -18,7 +18,7 @@ div {
     animation-name: slide;
     animation-duration: 20s;
     position: relative;
-    left:500px;
+    left:2000px;
     animation-timing-function: ease;
 }
 
