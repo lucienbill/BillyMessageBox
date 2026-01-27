@@ -4,8 +4,8 @@ function writeMessage(id){
     window.setTimeout(
         // I use 'setTimeout' because javascript is asynchronous. If I don't, 'hidden = false' might execute before 'hidden = true'
         function(){
-            document.getElementById("title").innerHTML = messages[id].[0];
-            document.getElementById("message").innerHTML = messages[id].[1];
+            document.getElementById("title").innerHTML = messages[id][0];
+            document.getElementById("message").innerHTML = messages[id][1];
             document.getElementById("messageBox").hidden = false
         },
         500
@@ -23,7 +23,7 @@ function displayAllMessagesInRandomOrder(interval){
     // Note: this function is called only once, and handles the loop
 
     // Change message each 'interval' seconds.
-    interval = interval * 500 // Note: the "times 500" make the thing work. It's dirty
+    interval = interval * 500 // Note: the "times 500" makes the thing work. It's dirty
 
     // First shuffle
     let arr = []
